@@ -1,6 +1,6 @@
 {
     "scripts": {
-      "start": "npx community-solid-server -c config-capsule.json"
+      "start": "npx community-solid-server -c config/config-capsule.json"
     },
     "dependencies": {
       "@solid/community-server": "^7.0.2"
